@@ -1,0 +1,14 @@
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\bin\Debug\net7.0\practica14-Nav1dad.exe
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\bin\Debug\net7.0\practica14-Nav1dad.deps.json
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\bin\Debug\net7.0\practica14-Nav1dad.runtimeconfig.json
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\bin\Debug\net7.0\practica14-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\bin\Debug\net7.0\practica14-Nav1dad.pdb
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.AssemblyInfoInputs.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.AssemblyInfo.cs
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.csproj.CoreCompileInputs.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\refint\practica14-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.pdb
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\practica14-Nav1dad.genruntimeconfig.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\practicas\practica 14\practica14-Nav1dad\obj\Debug\net7.0\ref\practica14-Nav1dad.dll
